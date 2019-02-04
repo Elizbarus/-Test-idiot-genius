@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\IdiotGenius2\IdiotGenius2\bin\Debug\IdiotGenius2.exe.config
+C:\Users\lenovo\source\repos\IdiotGenius2\IdiotGenius2\bin\Debug\IdiotGenius2.exe
+C:\Users\lenovo\source\repos\IdiotGenius2\IdiotGenius2\bin\Debug\IdiotGenius2.pdb
+C:\Users\lenovo\source\repos\IdiotGenius2\IdiotGenius2\obj\Debug\IdiotGenius2.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\IdiotGenius2\IdiotGenius2\obj\Debug\IdiotGenius2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\IdiotGenius2\IdiotGenius2\obj\Debug\IdiotGenius2.exe
+C:\Users\lenovo\source\repos\IdiotGenius2\IdiotGenius2\obj\Debug\IdiotGenius2.pdb
